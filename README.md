@@ -45,9 +45,7 @@ Natürlich kann man die Datei auf beliebigen Server ablegen und dann aufrufen, a
 Bitte macht Kopien von der HTML-Datei und legt sie ab, falls dieser Account mal geschlossen wird.
 
 ### Weitere Beteiligung des Urhebers
-Ich selbst werde dieses Projekt übrigens nicht groß weiter verfolgen.
-Deswegen kann auch jeder Github-Benutzer den Code ändern. Ich hoffe mal,
-dass das nicht ins Chaos führt.
+Ich selbst werde dieses Projekt übrigens nicht groß weiter verfolgen. Aber dieses Mal werde ich das Kennwort besser hüten.
 
 ### Varianten
 Die Datei existiert in 2 Varianten einer komprimierten und eine unkomprimierten.
