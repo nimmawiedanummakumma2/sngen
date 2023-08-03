@@ -13,7 +13,15 @@ befasst, denn mein Generator auf einem FreeHoster-Account hatte vor Jahren das Z
 Gott sei Dank gab es im KDG-Forum und anderswo bereits Ersatz und auch der Algorithmus zum Erzeugen der
 Prüfziffer ist mittlerweile Allgemeingut.
 
-Weiter 4 Jahre ster fiel mir auf, dass die Seite in Firefox mobile nicht ganz richtig funktioniert. Die Änderung war gleich gemacht, nur leider habe ixh das Kennwort für das Github-Konto vergessen. Daher nun ein Relaunch unter dem Nutzernamen nimmawiedanummakumma2.
+Weitere 4 Jahre später fiel mir
+auf, dass die Seite in Firefox
+mobile nicht ganz richtig
+funktioniert. Die Änderung war
+gleich gemacht, nur leider habe
+ich das Kennwort für das
+Github-Konto vergessen. Daher
+nun ein Relaunch unter dem
+Nutzernamen nimmawiedanummakumma2.
 ### Praktische und ästethische Erwägungen
 Mir persönlich gefielen die erhältlichen Lösungen nicht. Denn alle Lösungen erfordern entweder zwingend einen 
 Webserver oder man muss binäre Programme, deren Quellcode und Absichten man nicht kennt, auf den eigenen Rechner laden.
