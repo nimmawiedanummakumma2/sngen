@@ -38,7 +38,7 @@ Ich habe Wert darauf gelegt, dass sämtliche Daten und Programme direkt in der H
 
 Man braucht deswegen nicht einmal einen Webserver, damit der Generator funktioniert, er läuft komplett im Browser. 
 Daher genügt es, wenn man ihn auf dem eigenen Rechner ablegt und mit dem Browser die Datei öffnet.
-<BR>Tipp: Wenn man die Datei auf dem Smartphone ablegt, funtioniert
+<BR>Tipp: Wenn man die Datei auf dem Smartphone ablegt, funktioniert
 der Generator auch auf dem Smartphone (außer mit Firefox unter Android, denn der kann generell keine lokalen HTML-Dateien anzeigen).
 
 Natürlich kann man die Datei auf beliebigen Server ablegen und dann aufrufen, auch dann funktioniert sie ebenso.
