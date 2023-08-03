@@ -1,6 +1,6 @@
 # sngen
-# Neuer Seriennummer-Generator für Vodafone KDG
-Der funktionierende Generator auf github: https://nimmawiedanummakumma2.github.io/
+# Seriennummer-Generator für Vodafone KDG
+Der funktionierende Generator befindet sich hier: github: https://nimmawiedanummakumma2.github.io/
 
 Der Quellcode zum lokal Ablegen und dann im Browser öffnen: https://raw.githubusercontent.com/nimmawiedanummakumma2/sngen/main/index.html (per Rechtsklick speichern)
 
