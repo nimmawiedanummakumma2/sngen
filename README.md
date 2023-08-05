@@ -16,7 +16,8 @@ Prüfziffer ist mittlerweile Allgemeingut.
 Weitere 4 Jahre später fiel mir
 auf, dass die Seite in Firefox
 mobile nicht ganz richtig
-funktioniert. Die Änderung war
+funktioniert. Dort konnte man leider nur fünfstellige Seriennummern erzeugen, da die Eingabe zur Anzahl der Stellen nicht bedienbar war.
+<BR>Die Änderung war
 gleich gemacht, nur leider habe
 ich das Kennwort für das
 Github-Konto vergessen. Daher
