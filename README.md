@@ -80,7 +80,7 @@ Soll das Icon Änderungen erfahren, geht man so vor:
 2. Bearbeiten von icon.svg (mit einem Vectorgrafikprogramm oder einem Text-Editor)
 3. Kodieren z. B. mit `openssl base64 < icon.svg > icon.svg.b64
 4. Im unkomprimierten HTML-Quellcode das Icon ersetzen (function svgiconb64)
-Hierzu wird der Base64-code in einer einigen Zeile verlangt, das lässt sich mit
+Hierzu wird der Base64-code in einer einzigen Zeile verlangt, das lässt sich mit
 `awk '{printf "%s",$0}' sn.ico.b64` einfach erzeugen.
 ```javascript
     function svgiconb64 () {
